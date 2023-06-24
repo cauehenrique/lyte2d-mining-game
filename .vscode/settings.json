@@ -1,0 +1,9 @@
+{
+  "Lua.diagnostics.globals": [
+    "lyte"
+  ],
+  "Lua.diagnostics.disable": [
+    "lowercase-global",
+    "redundant-parameter"
+  ]
+}
